@@ -16,7 +16,7 @@ client.on("message", (message) => {
             message.channel.send("**Name:** Dowlputy\n**Dex Number:** 001\n**Types:** Flying\n**Species:** The Deputy Pokemon\n**Height:** 2'3\n**Weight:** 16 lbs\n**Stats:** [stats]\n**Egg Group:** Flying, Field\n**Dex Entry:** `[dex entry]`\nhttps://78.media.tumblr.com/1fc558f530b981f72f4245b566191422/tumblr_ozj7lrCTvk1wfcogao1_1280.png");
         } else
         if (args[0] === "owlficer") {
-            message.channel.send("**Name:** Owlficer\n**Dex Number:** 002\n**Types:** Flying/Ghost\n**Species:** The Lookout Pokemon**Height:** 3'6\n**Weight:** 95 lbs\n**Stats:** [stats]\n**Egg Group:** Flying, Field\n**Dex Entry:** `[dex entry]`\nhttps://78.media.tumblr.com/d1462bf64a6a47ed6839b6a6ae6e2be0/tumblr_ozj7lrCTvk1wfcogao2_1280.png");
+            message.channel.send("**Name:** Owlficer\n**Dex Number:** 002\n**Types:** Flying/Ghost\n**Species:** The Lookout Pokemon**\nHeight:** 3'6\n**Weight:** 95 lbs\n**Stats:** [stats]\n**Egg Group:** Flying, Field\n**Dex Entry:** `[dex entry]`\nhttps://78.media.tumblr.com/d1462bf64a6a47ed6839b6a6ae6e2be0/tumblr_ozj7lrCTvk1wfcogao2_1280.png");
         } else
         if (args[0] === "eaglective") {
             message.channel.send("**Name:** Eaglective\n**Dex Number:** 003\n**Types:** Flying/Ghost\n**Species:** The Gumshoe Pokemon\n**Height:** 6'0\n**Weight:** 140 lbs\n**Stats:** [stats]\n**Egg Group:** Flying, Field\n**Dex Entry:** `[dex entry]`");
