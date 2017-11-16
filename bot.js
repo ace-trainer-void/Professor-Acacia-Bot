@@ -12,8 +12,8 @@ client.on("message", (message) => {
 
 
     if (command === "dex") {
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[dowlputy]") {
+            message.channel.send("**Name:** Dowlputy\n**Dex Number:** 001\n**Types:** Flying\n**Species:** Deputy\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
