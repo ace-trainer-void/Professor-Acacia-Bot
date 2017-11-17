@@ -144,7 +144,7 @@ client.on("message", (message) => {
     }
     
     if (command === "shrug") {
-        message.channel.send("¯\_(ツ)_/¯")
+        message.channel.send("`¯\_(ツ)_/¯`")
     }  
 });
 client.login(process.env.BOT_TOKEN);
