@@ -142,5 +142,8 @@ client.on("message", (message) => {
             message.channel.send("This Pokémon is not in the Dex (yet).")
         }
     }
+    if (command === "professor") {
+        message.chnnel.send("Hello\, and welcome to the world of pokemon. My name is Acacia\, but you can call me the Pokemon Professor.")
+    }
 });
 client.login(process.env.BOT_TOKEN);
