@@ -143,7 +143,12 @@ client.on("message", (message) => {
         }
     }
     if (command === "professor") {
-        message.channel.send("Hello\, and welcome to the world of pokemon. My name is Acacia\, but you can call me the Pokemon Professor.")
+       if (args[0] === "intro") {
+           message.channel.send("Hello\, and welcome to the world of pokemon. My name is Acacia\, but you can call me the Pokemon Professor. I study the relationships between the lives and deaths of Pokemon.")
+       }else
+       if (args[0] === "help") {
+           message.cmessage.channel.send("This feature is not yet available")
+       }
     }
 });
 client.login(process.env.BOT_TOKEN);
