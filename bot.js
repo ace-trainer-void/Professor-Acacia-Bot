@@ -143,7 +143,7 @@ client.on("message", (message) => {
         }
     }
     if (command === "professor") {
-        message.chnnel.send("Hello\, and welcome to the world of pokemon. My name is Acacia\, but you can call me the Pokemon Professor.")
+        message.channel.send("Hello\, and welcome to the world of pokemon. My name is Acacia\, but you can call me the Pokemon Professor.")
     }
 });
 client.login(process.env.BOT_TOKEN);
