@@ -142,9 +142,5 @@ client.on("message", (message) => {
             message.channel.send("This Pokémon is not in the Dex (yet).")
         }
     }
-    
-    if (command === "shrug") {
-        message.channel.send("`¯\_(ツ)_/¯`")
-    }  
 });
 client.login(process.env.BOT_TOKEN);
