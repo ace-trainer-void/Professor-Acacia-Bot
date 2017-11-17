@@ -30,14 +30,14 @@ client.on("message", (message) => {
         if (args[0] === "racriminal") {
             message.channel.send("**Name:** Racriminal\n**Dex Number:** 006\n**Types:** Fighting/Dark\n**Species:** The Dangerous Pokemon\n**Height:** 7'8\n**Weight:** 370 lbs\n**Stats:** [stats]\n**Egg Group:** Field\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 007\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "juvijuge") {
+            message.channel.send("**Name:** Juvijuge\n**Dex Number:** 007\n**Types:** Rock/Psychic\n**Species:** The Judge Pokemon\n**Height:** 2'5\n**Weight:** 16.2 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 008\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "dosfury") {
+            message.channel.send("**Name:** Dosfury\n**Dex Number:** 008\n**Types:** Rock/Psychic\n**Species:** The Jury Pokemon\n**Height:** 5'7\n**Weight:** 46.3 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 009\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "justydra") {
+            message.channel.send("**Name:** Justydra\n**Dex Number:** 009\n**Types:** Rock/Psychic\n**Species:** The Exicutioner Pokemon\n**Height:** 10'7\n**Weight:** 450.5450.5 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 010\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
