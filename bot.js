@@ -39,11 +39,11 @@ client.on("message", (message) => {
         if (args[0] === "justydra") {
             message.channel.send("**Name:** Justydra\n**Dex Number:** 009\n**Types:** Rock/Psychic\n**Species:** The Exicutioner Pokemon\n**Height:** 10'7\n**Weight:** 450.5450.5 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 010\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "jearbow") {
+            message.channel.send("**Name:** Jearbow\n**Dex Number:** 010\n**Types:** Normal\n**Species:** The Long Eared Pokemon\n**Height:** 1'0\n**Weight:** 5.6 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 011\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "euchairybow") {
+            message.channel.send("**Name:** Euchairybow\n**Dex Number:** 011\n**Types:** Normal/Fairy\n**Species:** The Little Bow Pokemon\n**Height:** 2'3\n**Weight:** 10.6 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 012\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
@@ -52,31 +52,31 @@ client.on("message", (message) => {
             message.channel.send("**Name:** [name]\n**Dex Number:** 013\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 014\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 015\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 016\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "bumbolt") {
+            message.channel.send("**Name:** Bumbolt\n**Dex Number:** 017\n**Types:** Bug/Electric\n**Species:** The Electric Bug Pokemon\n**Height:** 4\"\n**Weight:** .3 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "batterbug") {
+            message.channel.send("**Name:** Batterbug\n**Dex Number:** 018\n**Types:** Bug/Electric\n**Species:** The Charger Pokemon\n**Height:** 1'3\n**Weight:** 2 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "gigavornet") {
+            message.channel.send("**Name:** Gigavornet\n**Dex Number:** 019\n**Types:** Bug/Electric\n**Species:** The Voltage Hornet Pokemon\n**Height:** 4'9\n**Weight:** 15 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 020\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 021\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [name]\n**Dex Number:** 022\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** [number]\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
