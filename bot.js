@@ -39,11 +39,11 @@ client.on("message", (message) => {
         if (args[0] === "justydra") {
             message.channel.send("**Name:** Justydra\n**Dex Number:** 009\n**Types:** Rock/Psychic\n**Species:** The Exicutioner Pokemon\n**Height:** 10'7\n**Weight:** 450.5450.5 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "jearbow") {
-            message.channel.send("**Name:** Jearbow\n**Dex Number:** 010\n**Types:** Normal\n**Species:** The Long Eared Pokemon\n**Height:** 1'0\n**Weight:** 5.6 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "lapunt") {
+            message.channel.send("**Name:** Lapunt\n**Dex Number:** 010\n**Types:** Normal/Fighting\n**Species:** The Strong Leg Pokemon\n**Height:** 3'5\n**Weight:** 12.7 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "euchairybow") {
-            message.channel.send("**Name:** Euchairybow\n**Dex Number:** 011\n**Types:** Normal/Fairy\n**Species:** The Little Bow Pokemon\n**Height:** 2'3\n**Weight:** 10.6 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "whacalope") {
+            message.channel.send("**Name:** Whacalope\n**Dex Number:** 011\n**Types:** Normal/Fighting\n**Species:** The Strong Arm Pokemon\n**Height:** 6'11\n**Weight:** 136.2 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Whacalopes tend to roam wherever Lopunnies are found. They like to pick fights and show their strength.\"`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 012\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
