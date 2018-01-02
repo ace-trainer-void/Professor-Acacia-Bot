@@ -52,7 +52,7 @@ client.on("message", (message) => {
             message.channel.send("**Name:** Lapunt\n**Dex Number:** 013\n**Types:** Normal/Fighting\n**Species:** The Strong Kick Pokemon\n**Height:** 3'5\n**Weight:** 12.7 lbs\n**Abilities:** Defiant, Huge Power, Guts (HA), Pure Power (HA) \n**Stats:** 50,60,45,60,20,35\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Lapunts train day and night to make their legs stronger. Sometimes they will train until they have broken every bone in their legs\" `");
         } else
         if (args[0] === "whacalope") {
-            message.channel.send("**Name:** Whacalope\n**Dex Number:** 014\n**Types:** Normal/Fighting\n**Species:** The Strong Punch Pokemon\n**Height:** 6'11\n**Weight:** 136.2 lbs\n **Abilities:** Iron Fist, Huge Power, Guts (HA), Pure Power (HA) \n**Stats:** 150,120,65,120,30,55\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Whacalopes tend to roam wherever Lopunnies are found. They like to pick fights and show their strength.\"`");
+            message.channel.send("**Name:** Whacalope\n**Dex Number:** 014\n**Types:** Normal/Fighting\n**Species:** The Strong Punch Pokemon\n**Height:** 6'11\n**Weight:** 136.2 lbs\n **Abilities:** Bulk Boost, Iron Fist, Guts (HA), Pure Power (HA) \n**Stats:** 150,120,65,120,30,55\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Whacalopes tend to roam wherever Lopunnies are found. They like to pick fights and show their strength.\"`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 015\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
