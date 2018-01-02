@@ -12,47 +12,47 @@ client.on("message", (message) => {
 
 
     if (command === "dex") {
-        if (args[0] === "Pokémon Name") {
-            message.channel.send("**Name:** [Name]\n**Dex Number:** 001\n**Types:** Grass\n**Species:** [Species Name]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "fraterry") {
+            message.channel.send("**Name:** Fraterry\n**Dex Number:** 001\n**Types:** Grass/Flying\n**Species:** The Fruit Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "Pokémon Name") {
-            message.channel.send("**Name:** [Name]\n**Dex Number:** 002\n**Types:** Grass\n**Species:** [Species]**\nHeight:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 002\n**Types:** Grass/Flying\n**Species:** The Fruit Bat Pokemon**\nHeight:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "eaglective") {
-            message.channel.send("**Name:** Eaglective\n**Dex Number:** 003\n**Types:** Flying/Ghost\n**Species:** The Gumshoe Pokemon\n**Height:** 6'0\n**Weight:** 140 lbs\n**Stats:** [stats]\n**Egg Group:** Flying, Field\n**Dex Entry:** `[dex entry]`\nhttps://78.media.tumblr.com/bc8060d13f9ba7e4e98bcf12e41b4f2d/tumblr_ozj7lrCTvk1wfcogao3_1280.png");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 003\n**Types:** Grass/Dragon\n**Species:** The Fruit Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "racrook") {
-            message.channel.send("**Name:** Racrook\n**Dex Number:** 004\n**Types:** Fighting\n**Species:** The Crooked Pokemon\n**Height:** 2'2\n**Weight:** 15 lbs\n**Stats:** [stats]\n**Egg Group:** Field\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "koaleak") {
+            message.channel.send("**Name:** Koaleak\n**Dex Number:** 004\n**Types:** Water\n**Species:** The Chewing Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "raconvict") {
-            message.channel.send("**Name:** Raconvict\n**Dex Number:** 005\n**Types:** Fighting/Dark\n**Species:** The Jailbird Pokemon\n**Height:** 4'6\n**Weight:** 125 lbs\n**Stats:** [stats]\n**Egg Group:** Field\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 005\n**Types:** Water\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "racriminal") {
-            message.channel.send("**Name:** Racriminal\n**Dex Number:** 006\n**Types:** Fighting/Dark\n**Species:** The Dangerous Pokemon\n**Height:** 7'8\n**Weight:** 370 lbs\n**Stats:** [stats]\n**Egg Group:** Field\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 006\n**Types:** Water/Steel\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "juvijuge") {
-            message.channel.send("**Name:** Juvijuge\n**Dex Number:** 007\n**Types:** Rock/Psychic\n**Species:** The Judge Pokemon\n**Height:** 2'5\n**Weight:** 16.2 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "platyplume") {
+            message.channel.send("**Name:** Platyplume\n**Dex Number:** 007\n**Types:** Fire\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "dosfury") {
-            message.channel.send("**Name:** Dosfury\n**Dex Number:** 008\n**Types:** Rock/Psychic\n**Species:** The Jury Pokemon\n**Height:** 5'7\n**Weight:** 46.3 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 008\n**Types:** Fire\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "justydra") {
-            message.channel.send("**Name:** Justydra\n**Dex Number:** 009\n**Types:** Rock/Psychic\n**Species:** The Exicutioner Pokemon\n**Height:** 10'7\n**Weight:** 450.5450.5 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Dragon\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[Pokémon Name]") {
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 009\n**Types:** Fire/Fairy\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "teslarve") {
+            message.channel.send("**Name:** Teslarve\n**Dex Number:** 010\n**Types:** Bug/Electric\n **Species:** The Conducting Pokemon \n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "puplug") {
+            message.channel.send("**Name:** Puplug\n**Dex Number:** 011\n**Types:** Bug/Electric\n **Species:** The Charging Pokemon \n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+        } else
+        if (args[0] === "mostracute") {
+            message.channel.send("**Name:** Mostracute\n**Dex Number:** 012\n**Types:** Bug/Electric\n **Species:** The Electrifying Pokemon \n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "lapunt") {
-            message.channel.send("**Name:** Lapunt\n**Dex Number:** 010\n**Types:** Normal\n**Species:** The Strong Leg Pokemon\n**Height:** 3'5\n**Weight:** 12.7 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Lapunts train day and night to make their legs stronger. Sometimes they will train until they have broken every bone in their legs\" `");
+            message.channel.send("**Name:** Lapunt\n**Dex Number:** 013\n**Types:** Normal/Fighting\n**Species:** The Strong Kick Pokemon\n**Height:** 3'5\n**Weight:** 12.7 lbs\n**Abilities:** Defiant, Huge Power, Guts (HA), Pure Power (HA) \n**Stats:** 50,60,45,60,20,35\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Lapunts train day and night to make their legs stronger. Sometimes they will train until they have broken every bone in their legs\" `");
         } else
         if (args[0] === "whacalope") {
-            message.channel.send("**Name:** Whacalope\n**Dex Number:** 011\n**Types:** Normal/Fighting\n**Species:** The Strong Arm Pokemon\n**Height:** 6'11\n**Weight:** 136.2 lbs\n**Stats:** [stats]\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Whacalopes tend to roam wherever Lopunnies are found. They like to pick fights and show their strength.\"`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 012\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 013\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
-        } else
-        if (args[0] === "[pokemon name]") {
-            message.channel.send("**Name:** [name]\n**Dex Number:** 014\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** Whacalope\n**Dex Number:** 014\n**Types:** Normal/Fighting\n**Species:** The Strong Punch Pokemon\n**Height:** 6'11\n**Weight:** 136.2 lbs\n **Abilities:** Iron Fist, Huge Power, Guts (HA), Pure Power (HA) \n**Stats:** 150,120,65,120,30,55\n**Egg Group:** Field, Fairy\n**Dex Entry:** `\"Whacalopes tend to roam wherever Lopunnies are found. They like to pick fights and show their strength.\"`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 015\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
@@ -60,14 +60,14 @@ client.on("message", (message) => {
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 016\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "bumbolt") {
-            message.channel.send("**Name:** Bumbolt\n**Dex Number:** 017\n**Types:** Bug/Electric\n**Species:** The Electric Bug Pokemon\n**Height:** 4\"\n**Weight:** .3 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[pokemon name]") {
+            message.channel.send("**Name:** [name]\n**Dex Number:** 017\n**Types:** [types]\n**Species:** [species]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "batterbug") {
-            message.channel.send("**Name:** Batterbug\n**Dex Number:** 018\n**Types:** Bug/Electric\n**Species:** The Charger Pokemon\n**Height:** 1'3\n**Weight:** 2 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[pokemon name]") {
+            message.channel.send("**Name:** [name]\n**Dex Number:** 018\n**Types:** [types]\n**Species:** [species]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "gigavornet") {
-            message.channel.send("**Name:** Gigavornet\n**Dex Number:** 019\n**Types:** Bug/Electric\n**Species:** The Voltage Hornet Pokemon\n**Height:** 4'9\n**Weight:** 15 lbs\n**Stats:** [stats]\n**Egg Group:** Bug\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "[pokemon name]") {
+            message.channel.send("**Name:** [name]\n**Dex Number:** 019\n**Types:** [types]\n**Species:** [species]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[pokemon name]") {
             message.channel.send("**Name:** [name]\n**Dex Number:** 020\n**Types:** [types]\n**Height:** [height]\n**Weight:** [weight]\n**Stats:** [stats]\n**Egg Group:** [egg group]\n**Dex Entry:** `[dex entry]`");
