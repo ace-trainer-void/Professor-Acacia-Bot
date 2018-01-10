@@ -12,17 +12,17 @@ client.on("message", (message) => {
 
 
     if (command === "dex") {
-        if (args[0] === "fraterry") {
-            message.channel.send("**Name:** Fraterry\n**Dex Number:** 001\n**Types:** Grass/Flying\n**Species:** The Fruit Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "rouseed") {
+            message.channel.send("**Name:** Rouseed\n**Dex Number:** 001\n**Types:** Grass/Flying\n**Species:** The Fruit Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Abilities:** Overgrow, \n**Stats:** [stats]\n**Egg Group:** Flying, Grass\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[Pokémon Name]") {
             message.channel.send("**Name:** [Name]\n**Dex Number:** 002\n**Types:** Grass/Flying\n**Species:** The Fruit Bat Pokemon**\nHeight:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[Pokémon Name]") {
-            message.channel.send("**Name:** [Name]\n**Dex Number:** 003\n**Types:** Grass/Dragon\n**Species:** The Fruit Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+            message.channel.send("**Name:** [Name]\n**Dex Number:** 003\n**Types:** Grass/Dragon\n**Species:** The Mossy Bat Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
-        if (args[0] === "koaleak") {
-            message.channel.send("**Name:** Koaleak\n**Dex Number:** 004\n**Types:** Water\n**Species:** The Chewing Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
+        if (args[0] === "plataqua") {
+            message.channel.send("**Name:** Plataqua\n**Dex Number:** 004\n**Types:** Water\n**Species:** The Poison Spur Pokemon\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
         } else
         if (args[0] === "[Pokémon Name]") {
             message.channel.send("**Name:** [Name]\n**Dex Number:** 005\n**Types:** Water\n**Species:** [Species]\n**Height:** [Height]\n**Weight:** [Weight]\n**Stats:** [stats]\n**Egg Group:** [Egg Group]\n**Dex Entry:** `[dex entry]`");
